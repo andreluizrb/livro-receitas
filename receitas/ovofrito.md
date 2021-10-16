@@ -3,8 +3,12 @@
 ### Ingredientes
 
 - Ovo
+
 - Sal
+
 - Pimenta
+
+- Orégano
 
 ### Modo de preparo
 
@@ -13,6 +17,3 @@
 3. Ligue uma boca do fogão e coloque a frigideira sobre ela
 4. Coloque sal
 5. Frite
-
-
-
