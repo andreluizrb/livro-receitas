@@ -4,6 +4,7 @@
 
 - Ovo
 - Sal
+- Orégano
 
 ### Modo de preparo
 
