@@ -4,6 +4,7 @@
 
 - Ovo
 - Sal
+- Pimenta
 
 ### Modo de preparo
 
